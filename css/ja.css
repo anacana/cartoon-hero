@@ -1,0 +1,37 @@
+body{
+	margin:0;
+}
+
+header{
+	background-color: #E9E8F6;
+	height: 50%;
+	padding-bottom: 20px;
+}
+header h1{
+	color: #030047;
+	padding-top: 15%;
+	margin-left: 18%;
+	
+	font-size:  50px;
+	font-family: gotham;
+}
+header h2{
+	color: #030047;
+	font-size: 150%;
+	font-family: gotham light;
+	margin-left: 18%;
+	margin-bottom: 18%;
+
+
+}
+img{
+	float: right;
+	margin-right: 10%;
+	margin-top: 5%;
+	height: 650px
+	
+
+}
+
+	
+}
