@@ -1,5 +1,6 @@
 body{
 	margin:0;
+	font-family: gotham, arial, sans-serif;
 }
 
 header{
@@ -11,9 +12,8 @@ header h1{
 	color: #030047;
 	padding-top: 15%;
 	margin-left: 18%;
-	
 	font-size:  50px;
-	font-family: gotham;
+	
 }
 header h2{
 	color: #030047;
@@ -21,17 +21,20 @@ header h2{
 	font-family: gotham light;
 	margin-left: 18%;
 	margin-bottom: 18%;
+	margin-right: 18%;
 
 
 }
-img{
+header img {
 	float: right;
 	margin-right: 10%;
 	margin-top: 5%;
-	height: 650px
-	
+	padding-left: 5%;
+	padding-bottom: 5%;
+	height: 650px;
+
 
 }
+.tlac.png {
 
 	
-}
