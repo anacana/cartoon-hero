@@ -3,6 +3,28 @@ body{
 	font-family: roboto, arial, sans-serif;
 
 }
+a {
+	font-weight: 600;
+}
+
+.topnav a {
+  float: right;
+  color: #030047;
+  text-align: center;
+  padding: 40px 50px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.Anna a {
+	float: left;
+  color: #FE9D0E;
+  text-align: center;
+  padding: 40px 50px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
 
 header{
 	background-color: #E9E8F6;
@@ -12,7 +34,7 @@ header{
 h1, h2{
 	font-family: 'Maven Pro', sans-serif;
 	padding: 0 20px;
-	margin: 0 auto;
+	margin: 0px auto;
     max-width: 1000px;
 }
 header h1{
@@ -31,14 +53,10 @@ header h2{
 
 
 }
-header img {
+.ja img {
 	float: right;
-	margin-right: 10%;
-	margin-top: 5%;
-	padding-left: 5%;
-	padding-bottom: 5%;
-	max-height: 650px;
-
+	margin: 0px; 
+	max-height: 700px;
 
 }
 main{
@@ -50,4 +68,25 @@ main{
 	
 main img{
 	max-width: 100%;
+}
+
+main h1, h2, p{
+	color: #030047;
+}
+
+main h1{
+	font-weight: 400;
+	font-size: 18PX;
+	padding: 40px 0;
+
+}
+
+main h2{
+
+}
+
+p{
+	max-width: 500px;
+	float: right;
+	
 }
