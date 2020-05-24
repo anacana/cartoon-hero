@@ -1,27 +1,32 @@
 body{
 	margin:0;
-	font-family: gotham, arial, sans-serif;
+	font-family: roboto, arial, sans-serif;
+
 }
 
 header{
 	background-color: #E9E8F6;
-	height: 50%;
-	padding-bottom: 20px;
+	height: 70%;
+	padding-bottom: 50px;
+}
+h1, h2{
+	font-family: 'Maven Pro', sans-serif;
+	padding: 0 20px;
+	margin: 0 auto;
+    max-width: 1000px;
 }
 header h1{
 	color: #030047;
 	padding-top: 15%;
-	margin-left: 18%;
 	font-size:  50px;
 	
 }
 header h2{
 	color: #030047;
 	font-size: 150%;
-	font-family: gotham light;
-	margin-left: 18%;
+	font-weight: 400;
 	margin-bottom: 18%;
-	margin-right: 18%;
+	
 
 
 }
@@ -31,10 +36,17 @@ header img {
 	margin-top: 5%;
 	padding-left: 5%;
 	padding-bottom: 5%;
-	height: 650px;
+	max-height: 650px;
 
 
 }
-.tlac.png {
+main{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0 20px
 
+}
 	
+main img{
+	max-width: 100%;
+}
